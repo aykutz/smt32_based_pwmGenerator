@@ -2,7 +2,7 @@ I made this project by following Arif Mandal’s STM32-based signal generator co
 
 The SSD1306 library belongs to ControlleStech !!
 
-SILICON ROOM YOUTUBE VIDEO ->>>> https://www.youtube.com/@aykutengineeringcompany
+SILICON ROOM YOUTUBE VIDEO ->>>> https://youtu.be/sd791Ins6Xshttps://youtu.be/sd791Ins6Xs
 
 
 <h1 align="left">Features</h1>
