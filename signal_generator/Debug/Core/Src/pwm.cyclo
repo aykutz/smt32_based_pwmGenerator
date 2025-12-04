@@ -1,0 +1,3 @@
+../Core/Src/pwm.c:11:6:pwmChannelStart	1
+../Core/Src/pwm.c:16:6:pwmChannelStop	1
+../Core/Src/pwm.c:21:6:setPwmFreqDuty	1

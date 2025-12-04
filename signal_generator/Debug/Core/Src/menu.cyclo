@@ -1,0 +1,6 @@
+../Core/Src/menu.c:21:6:printMenuItems	3
+../Core/Src/menu.c:39:6:handleMenuNavigation	14
+../Core/Src/menu.c:127:6:setFrequency	2
+../Core/Src/menu.c:145:6:setDutyCycle	2
+../Core/Src/menu.c:164:6:showAbout	1
+../Core/Src/menu.c:175:6:showInfo	1
